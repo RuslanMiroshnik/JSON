@@ -1,35 +1,31 @@
 {
  
-  "attribute":"Description":{
-      		"Steps to reproduce",
-      "Actual result",
-      "Expected result",
+  "Description":{
+      "Steps to reproduce": "Value",
+      "Actual result":"Value",
+      "Expected result":"Value",
   },
-  "Project",
-  "Component",
-  "Build version",
-  "Severity":{
+  "Project":"Value",
+  "Component":"value",
+  "Build version":"Value",
+  "Severity":[
       "Blocker",
       "Critical",
       "Major",
       "Minor",
       "Trivial"
-  },
-  "Priority":{
+  ],
+  "Priority":[
       "High",
       "Medium",
       "Low"
-  },
-  "Status",
-  "Author",
-  "Environment":{
+  ],
+  "Status":"Value",
+  "Author":"Value",
+  "Environment":[
       "Dev",
       "Stage",
       "Prod"
-  },
-  "Attachments"
+  ],
+  "Attachments":"Value"
 }
-  
-  
-    
-  
